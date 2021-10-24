@@ -4,9 +4,9 @@ Projet : Créer un modèle de CV
 
 Révision des bases abordées :
 
-Html5 / CSS3
-Parent / enfant
-Position relative / absolute
+Html5 / CSS3 <br>
+Parent / enfant  <br>
+Position relative / absolute  <br>
 Flexbox
 
 ___________________________________________________
@@ -16,9 +16,9 @@ Project: Create a CV template
 
 Review of the basics covered :
 
-Html5 / CSS3 
-Parent / child 
-Relative / absolute position 
+Html5 / CSS3  <br>
+Parent / child  <br>
+Relative / absolute position  <br>
 Flexbox
 
 Pré-requis  / Prerequisite :
