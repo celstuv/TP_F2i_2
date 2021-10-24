@@ -25,4 +25,4 @@ Pré-requis  / Prerequisite :
 
 Documentation : https://www.w3schools.com/html/html_forms.asp https://www.w3schools.com/html/html_lists.asp https://www.w3schools.com/html/default.asp https://www.w3schools.com/css/default.asp https://www.w3schools.com/css/css_positioning.asp https://www.w3schools.com/css/css3_flexbox.asp https://www.w3schools.com/css/css_margin.asp https://www.w3schools.com/css/css_padding.asp
 
-Voir le résultat / View result here :
+Voir le résultat / View result here : https://celstuv.github.io/TP_F2i_2/
